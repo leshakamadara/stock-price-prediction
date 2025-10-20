@@ -1,11 +1,11 @@
 <div align="center">
 
-# Stock Price Prediction System AIML
+# Stock Price Prediction System
 
 </div>
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dckoipgrs/image/upload/v1760965560/gordom-taiga-a-greek-thinker-with-a-trading-chart-in-the-background-d489586e-7714-46b9-b22c-ab7b86259d99_fqwbgf.jpg" alt="Apple Stock Prediction Banner" width="100%"/>
+  <img src="https://res.cloudinary.com/dckoipgrs/image/upload/v1760970818/AIML_wduphf.png" alt="Apple Stock Prediction Banner" width="100%"/>
 </div>
 
 ---
