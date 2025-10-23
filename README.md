@@ -26,7 +26,6 @@
  
 </div>
 
----
 
 ##  Streamlit App Interface Prediction
 <div align="center">
