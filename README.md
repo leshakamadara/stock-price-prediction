@@ -20,8 +20,19 @@
 ##  Streamlit App Interface with Real-Time Data Updates
 <div align="center">
   <br/>
-   <strong> ⚡ Fetch real-time market data with Yahoo Finance API (Innovation)</strong>
+   <strong> ⚡ Fetch real-time market data with Yahoo Finance API</strong>
   <img src="https://res.cloudinary.com/dckoipgrs/image/upload/v1760968107/Screenshot_2025-10-20_at_19.15.33_or1luv.png" alt="Streamlit App Interface with RealTime Data Update" width="100%"/>
+  <br/><br/>
+ 
+</div>
+
+---
+
+##  Streamlit App Interface Prediction
+<div align="center">
+  <br/>
+   <strong> ⚡ Fetch real-time market data with Yahoo Finance API</strong>
+  <img src="https://res.cloudinary.com/dckoipgrs/image/upload/v1761241018/Screenshot_2025-10-23_at_23.05.45_crlfmx.png" alt="Streamlit App Interface with RealTime Data Update" width="100%"/>
   <br/><br/>
  
 </div>
